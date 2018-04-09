@@ -1,4 +1,3 @@
-# WWDC2016
 
 ### 1. Using Time Profiler in Instruments
 
